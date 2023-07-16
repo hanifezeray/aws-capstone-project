@@ -3,7 +3,7 @@ apt-get update -y
 apt-get install git -y
 apt-get install python3 -y
 cd /home/ubuntu/
-TOKEN=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
+TOKEN=*************
 git clone https://$TOKEN@github.com/hanifezeray/aws-capstone-project.git
 cd /home/ubuntu/aws-capstone-project
 apt install python3-pip -y
